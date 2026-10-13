@@ -15,3 +15,5 @@ git commit -m "Initial commit"
 
 ## Image:
 ![Project Banner](assets/project-banner.svg)
+
+Updated directly on GitHub.
